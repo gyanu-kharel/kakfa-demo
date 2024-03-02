@@ -1,6 +1,5 @@
-*/bin
-*/obj
-*/.idea
-.git
-*/config
-*/data
+**/bin/
+**/obj/
+**/.idea
+**/config/
+**/data/
