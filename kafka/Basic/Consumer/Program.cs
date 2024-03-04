@@ -43,6 +43,3 @@ finally
 {
     consumer.Close();
 }
-
-
-

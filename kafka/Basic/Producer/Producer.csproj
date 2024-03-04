@@ -8,11 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Confluent.Kafka" Version="2.3.0" />
+        <PackageReference Include="Bogus" Version="35.4.0" />
+        <PackageReference Include="Confluent.Kafka" Version="2.3.0" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Shared\Shared.csproj" />
+        <ProjectReference Include="..\Shared\Shared.csproj" />
     </ItemGroup>
 
 </Project>
