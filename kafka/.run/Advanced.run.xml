@@ -1,0 +1,10 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Advanced" type="CompoundRunConfigurationType">
+    <toRun name="Logger" type="DotNetProject" />
+    <toRun name="PaymentProcessor" type="DotNetProject" />
+    <toRun name="Registration" type="DotNetProject" />
+    <toRun name="Reporter" type="DotNetProject" />
+    <toRun name="Welcomer" type="DotNetProject" />
+    <method v="2" />
+  </configuration>
+</component>
